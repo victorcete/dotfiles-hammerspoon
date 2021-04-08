@@ -20,6 +20,7 @@ hotkeys = {
     t = "Telegram",
     u = "Signal",
     y = "WhatsApp",
+    z = "zoom.us",
 }
 launcher:start(hyper, hotkeys)
 ------------------------------------------------------------------------------
